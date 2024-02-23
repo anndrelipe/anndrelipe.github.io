@@ -1,0 +1,19 @@
+.reviewrow {
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.marginpgraph {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: -0.5%;
+    font-size: 16px;
+}

@@ -1,0 +1,33 @@
+.paragraphdivpreset {
+    font-size: 13px;
+    display: flex;
+    flex-direction: column;
+    color: #616161;
+}
+
+.pgraphone {
+    margin-top: -0.40%;
+    margin-bottom: -5.35%;
+}
+
+.container {
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.continuebtn {
+    background: #d00b0b;;
+    color: white;
+    height: 40px;
+    width: 35%;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.spanpreset {
+    color: black;
+    font-weight: bold
+}

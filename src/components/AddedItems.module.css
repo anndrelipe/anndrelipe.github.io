@@ -1,0 +1,75 @@
+.container {
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    margin-left: 5%;
+    font-size: 18px;
+    margin-bottom: -1%;
+}
+.maininfos {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.spec {
+    margin-top: -15%;
+    margin-bottom: -5%;
+    font-size: 13px;
+}
+
+.ordername {
+    font-size: 14px ;
+}
+
+.logo2 {
+    width: 25%;
+}
+
+.moreinfos {
+    width: 40%;
+}
+
+.addorders {
+    width: 25%;
+    background-color: rgb(243, 243, 243);
+    border-radius: 5px;
+}
+
+.numoforder {
+    width: 45% ;
+    height: 32px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+}
+
+.addbtn {
+    width: 25%;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243);
+    color: #d00b0b;
+    font-weight: bold;
+}
+
+.lessbtn {
+    width: 25%;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243);
+    color: #d00b0b;
+    font-weight: bold;
+}
+
+.lastxt {
+    color: #d00b0b;
+    font-weight: 600;
+    font-size: 14px;
+    text-align: center;
+}

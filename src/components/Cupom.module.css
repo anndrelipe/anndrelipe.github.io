@@ -1,0 +1,41 @@
+.container {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.subcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainchildcontainer {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.complement {
+    color: #d00b0b;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.restname {
+    font-size: 14px;
+    margin-bottom: -8%;
+    margin-left: -53%;
+}
+
+.text {
+    width: 100%;
+    font-size: 12px;
+    margin-left: 15%;
+}
